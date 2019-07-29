@@ -27,13 +27,19 @@ const {{_ "camelCase" name}} = require('{{name}}');
 
 <br />
 
-[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](/)
+[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
 ## Changelog
 
-I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should as well. Checkout what's 📦 new, 👌 improved, 🐛 fixed, and  if the 📖 docs got an update.
+[❯ Read the changelog here →](changelog.md)
 
- [Read the changelog here →](changelog.md)
+<br />
+
+<small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+
+> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should as well._
+
+</small>
 
 <br />
 
