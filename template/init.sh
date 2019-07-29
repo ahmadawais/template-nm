@@ -5,7 +5,7 @@ gh re --new "{{name}}" --description "{{description}}"
 
 # Git stuff.
 git init
-git remote add https://github.com/ahmadawais/{{name}}.git
+git remote add origin https://github.com/ahmadawais/{{name}}.git
 
 # Delete yourself, bash script.
 rm -- "$0"
