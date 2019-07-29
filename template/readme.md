@@ -22,7 +22,7 @@ npm install {{name}}
 ## Usage
 
 ```js
-const {{name}} = require('{{name}}');
+const {{_ "camelCase" name}} = require('{{name}}');
 ```
 
 <br />
