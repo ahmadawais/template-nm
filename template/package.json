@@ -1,0 +1,21 @@
+{
+	"name": "{{name}}",
+	"version": "{{version}}",
+	"description": "{{description}}",
+	"license": "MIT",
+	"repository": "ahmadawais/{{name}}",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"{{name}}",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}
