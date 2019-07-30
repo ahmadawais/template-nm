@@ -1,7 +1,7 @@
 # {{name}}
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/{{name}}?label=DOWNLOADS%20%20❯&colorA=00c300&colorB=00c300&style=flat&style=flat)](https://www.npmjs.com/package/{{name}}) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
-[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWIS%20%E2%86%92-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat)](https://twitter.com/mrahmadawais/)
+[![DOWNLOADS](https://img.shields.io/npm/dt/{{name}}?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat&style=flat)](https://www.npmjs.com/package/{{name}}) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
 
 > {{description}}
 
