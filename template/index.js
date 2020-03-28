@@ -1,5 +1,3 @@
-/* {{_ "upperCase" name}} */
-
 /**
  * {{_ "startCase" name}}.
  */
