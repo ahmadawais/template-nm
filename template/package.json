@@ -18,7 +18,11 @@
 		"Ahmad Awais",
 		"ahmadawais"
 	],
+	"devDependencies": {
+		"prettier": "^2.0.2"
+	},
 	"scripts": {
-		"test": "node test.js"
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
 	}
 }
