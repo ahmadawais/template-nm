@@ -22,6 +22,10 @@ npm install {{name}}
 ## Usage
 
 ```js
+// Use ESM `import` statement syntax.
+import {{_ "camelCase" name}} from '{{name}}';
+
+// OR use CommonJS `require` syntax.
 const {{_ "camelCase" name}} = require('{{name}}');
 ```
 
